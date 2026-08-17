@@ -5,8 +5,15 @@ Copyright (c) 2026 ImJoyler. All rights reserved.
 This source code and its associated files are proprietary and confidential, **with the exception of the specific third-party components listed below.** 
 For all proprietary files, no permission is granted to copy, modify, distribute, sublicense, publish, or use this software, in whole or in part, without prior written permission from the copyright holder. Unauthorized use, copying, modification, or distribution is strictly prohibited.
 ### Third-Party Exceptions
-The following components are excluded from the proprietary license above. They are originally from the Odin project by @odtheking and @hannibal2 and are subject to their respective original licenses:
+The following components are excluded from the proprietary license above. They are originally from the Odin project by @odtheking, @hannibal2, @ricedotwho and are subject to their respective original licenses:
 - `EventBus`
 - `RenderUtils` 
 - `BeaconBeamEvent`
-  
+- `CameraProvider and respective mixins`
+### Changelog
+Added AutoRend to work with new meta
+Added VampireHelper for vampire slayer
+Readded all Carnival macros
+Fixed RSM conflict ( i think )
+Fixed a small bug in AutoCroesus
+Added CustomBlock Esp, added a few things to CustomESP 
