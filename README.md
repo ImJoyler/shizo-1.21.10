@@ -11,9 +11,9 @@ The following components are excluded from the proprietary license above. They a
 - `BeaconBeamEvent`
 - `CameraProvider and respective mixins`
 ### Changelog
-Added AutoRend to work with new meta
-Added VampireHelper for vampire slayer
-Readded all Carnival macros
-Fixed RSM conflict ( i think )
-Fixed a small bug in AutoCroesus
-Added CustomBlock Esp, added a few things to CustomESP 
+- Added AutoRend to work with new meta
+- Added VampireHelper for vampire slayer
+- Readded all Carnival macros
+- Fixed RSM conflict ( i think )
+- Fixed a small bug in AutoCroesus
+- Added CustomBlock Esp, added a few things to CustomESP 
